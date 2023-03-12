@@ -1,0 +1,69 @@
+BODY {
+	font-family: helvetica,verdana,sans,arial;
+}
+
+BODY.nav {
+	font-family: arial,geneva,helvetica,verdana,sans,arial
+}
+
+h2.intro {
+	color: #707070;
+}
+
+A {
+	color: #4C5B6B;
+	TEXT-DECORATION: none
+}
+A:link {
+	TEXT-DECORATION: none;
+	text: #ffff00
+}
+A:visited {
+	TEXT-DECORATION: none;
+	color: #ffff00;
+	text: #ffff00
+}
+A:active {
+	TEXT-DECORATION: none;
+	text: #ff6600
+}
+A:hover {
+	COLOR: #ff6600
+}
+.nav {
+	FONT: bold 14px/18px geneva, "ms sans serif", sans-serif;
+}
+
+TD.nav {
+	width: 100%;
+	background: #bcd5ea;
+	font-family: geneva,helvetica,arial,verdana,sans;
+}
+
+TABLE {
+	width: 100%;
+	border: 0
+}
+
+TABLE.heading {
+	padding: 0;
+	text-align: center;
+	font-family: helvetica,verdana,sans,arial;
+	font-weight: bold;
+	background: #0099cc;
+	color: white;
+}
+
+TD.heading {
+	padding: 0;
+}
+
+A.menu {
+	color: silver;
+	text-decoration: none;
+}
+
+A.menu:hover {
+	background: #3399AA;
+	color: white;
+}

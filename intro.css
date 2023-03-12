@@ -1,0 +1,46 @@
+BODY {
+	font-family: helvetica,verdana,sans,arial;
+}
+
+BODY.nav {
+	font-family: arial,geneva,helvetica,verdana,sans,arial
+}
+
+h2.intro {
+	color: #7070A0;
+}
+
+
+TD.nav {
+	width: 100%;
+	background: #bcd5ea;
+	font-family: geneva,helvetica,arial,verdana,sans;
+}
+
+TABLE {
+	width: 100%;
+	border: 0
+}
+
+TABLE.heading {
+	padding: 0;
+	text-align: center;
+	font-family: helvetica,verdana,sans,arial;
+	font-weight: bold;
+	background: #0099cc;
+	color: white;
+}
+
+TD.heading {
+	padding: 0;
+}
+
+A.menu {
+	color: silver;
+	text-decoration: none;
+}
+
+A.menu:hover {
+	background: #3399AA;
+	color: white;
+}

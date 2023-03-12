@@ -1,0 +1,69 @@
+BODY {
+	font-family: helvetica,verdana,sans,arial;
+}
+
+BODY.nav {
+	font-family: helvetica,verdana,sans,arial;
+	MARGIN-TOP: 0px; FONT-FAMILY: geneva, arial, sans-serif
+}
+
+A:link {
+	TEXT-DECORATION: none
+}
+A:visited {
+	TEXT-DECORATION: none
+}
+A:active {
+	TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff9900
+}
+.nav {
+	FONT: bold 10px/14px geneva, "ms sans serif", sans-serif
+}
+
+TD.nav {
+	width: 90%;
+	background: wheat;
+}
+
+TD.file {
+	background: olive;
+}
+
+A.file {
+	color: yellow;
+}
+
+TABLE {
+	width: 100%;
+	border: 0
+}
+
+TABLE.heading {
+	padding: 0;
+	text-align: center;
+	font-family: helvetica,verdana,sans,arial;
+	font-weight: bold;
+	background: #0099cc;
+	color: white;
+}
+
+TD.heading {
+	padding: 0;
+}
+
+A.menu {
+	color: silver;
+	text-decoration: none;
+}
+
+A.menu:hover {
+	background: #3399AA;
+	color: white;
+}
+
+TT.copyright {
+	font-size: 70%;
+}
